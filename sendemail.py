@@ -13,7 +13,7 @@ def email(data):
         mail.starttls()
         sender='pransanji1tnagesh@gmail.com'
         content= 'Stock price of '+data['name']+' is Rs.'+data['price']
-        mail.login('prasanjitnagesh@gmail.com','dbhyvvtuhjgraoos')
+        mail.login(<enter sender email address>,<enter credentials>)
         header='To:'+'\n'+'From:' \
         +sender+'\n'+'subject:Stock price\n'
         content=header+content
