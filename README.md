@@ -1,2 +1,2 @@
 This is a Python web scraping desktop app. User can get stock price from Zerodha website. User has to enter symbol of the company ( eg: TCS , BAJA for bajaj auto, INFY for infosys) listed in NSE. User will be asked to enter emailid. The email id entered will get an email of the price of the stock.
-Important: If you want to use this code, configure your gmail id for seding emails. Performing the steps are mentioned here: https://support.cloudways.com/en/articles/5131076-how-to-configure-gmail-smtp#h_fa4c00d3df 
+Important: If you want to use this code, configure your gmail id for seding emails, performing the steps mentioned here: https://support.cloudways.com/en/articles/5131076-how-to-configure-gmail-smtp#h_fa4c00d3df 
